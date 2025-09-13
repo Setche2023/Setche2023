@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Setche2023
 - 👀 I’m interested in Programmation, IA, news technologies
-- 🌱 I’m currently learning HTML5/CSS3, Java, Python, PHP/MySQL, Javascript
-- 💞️ I’m looking to collaborate on Python, PHP/MySQL and javascript
+- 🌱 I’m currently learning HTML5/CSS3, Java, MySQL, Javascript
+- 💞️ I’m looking to collaborate on Java, MySQL and javascript
 - 📫 How to reach me instagram @polyores_24
 
 <!---
